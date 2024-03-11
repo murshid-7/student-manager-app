@@ -10,7 +10,7 @@ import 'package:student_reg/screens/splash_screen.dart';
 
 // ignore: constant_identifier_names
 const login_key = 'login_key';
-
+//rsetdrydhdy
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
